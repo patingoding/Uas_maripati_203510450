@@ -1,5 +1,4 @@
-# Snack Expo (MERN)
+# Pertemuan 7 - BackEnd Expo MERN
 
-FrontEnd :
-https://snack.expo.dev/@alriawi/6?platform=web
- 
+Nama :  Mar'i Pati
+NPM : 203510450
